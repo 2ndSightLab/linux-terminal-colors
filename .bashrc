@@ -1,6 +1,7 @@
 # .bashrc
 # add this to your .bashrc file in your home directory
 # read the associated blog posts to understand
+# https://medium.com/bugs-that-bite/changing-terminal-colors-on-amazon-linux-ce954d26a81f
 
 #NOTE: I removed some of the boilerplate code in bash RC on AWS and my Amazon Linux host did all kinds of strange things...
 #so leave that stuff there if you don't know what you're doing - and AWS may want to look into that and
