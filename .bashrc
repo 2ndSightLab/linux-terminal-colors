@@ -29,6 +29,10 @@ export PATH
 #remove docker color madness
 export NO_COLOR=true
 
+#set background color - change #c42e68 to change the color
+#https://htmlcolorcodes.com/color-picker/
+echo -e "\e]11;#c42e68\a"
+
 #PS1
 #The first item is the prompt
 #The terminal emulator looks for output containing that specific code (\e]0;) and uses everything up to the \a as the terminal window title.
