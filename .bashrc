@@ -31,7 +31,8 @@ export NO_COLOR=true
 
 #set background color - change #c42e68 to change the color
 #https://htmlcolorcodes.com/color-picker/
-#this doesn't work on mac - comment it out
+#this doesn't work on mac if you are using defulat zsh terminal app.
+#should work in bash
 echo -e "\e]11;#c42e68\a"
 
 #PS1
