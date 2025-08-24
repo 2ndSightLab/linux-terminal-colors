@@ -33,6 +33,9 @@ export NO_COLOR=true
 #https://htmlcolorcodes.com/color-picker/
 #this doesn't work on mac if you are using defulat zsh terminal app.
 #should work in bash
+#you can chnage to bash with this command: 
+#chsh -s /bin/bash
+#Mac uses zsh due to licensing issues and it has some different features
 echo -e "\e]11;#c42e68\a"
 
 #PS1
